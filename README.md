@@ -49,11 +49,11 @@ Open [http://localhost:5173](http://localhost:5173) (or the port shown in your t
 ---
 
 ## Usage
-- **Generate a Beat:** Use the Beat Generator to describe and create a custom beat.
-- **Play Instruments:** Interact with the instrument cluster to play live sounds.
-- **Record & Download:** Record your session and download the audio.
-- **Save Beats:** Save generated beats and use them later with instrument playback.
-
+- **𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐚 𝐁𝐞𝐚𝐭::** Use the Beat Generator to describe and create a custom beat.
+- **𝐏𝐥𝐚𝐲 𝐈𝐧𝐬𝐭𝐫𝐮𝐦𝐞𝐧𝐭𝐬:** Interact with the instrument cluster to play live sounds.
+- **𝐑𝐞𝐜𝐨𝐫𝐝 & 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝:** Record your session and download the audio.
+- **𝐒𝐚𝐯𝐞 𝐁𝐞𝐚𝐭𝐬:** Save generated beats and use them later with instrument playback.
+- 𝐑𝐞𝐚𝐥 𝐓𝐢𝐦𝐞 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧:Collaborate with your friends and colleagues to generate new beats
 ---
 
 ## What technologies are used for this project?
